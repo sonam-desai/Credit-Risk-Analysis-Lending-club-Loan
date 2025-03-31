@@ -13,8 +13,7 @@
 * [Getting Started](#getting-started)
 * [Technologies](#technologies)
 * [Top-directory layout](#top-directory-layout)
-* [License](#license)
-* [Author](#author)
+
 
 ## Background
 
