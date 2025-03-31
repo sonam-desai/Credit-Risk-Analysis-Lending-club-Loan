@@ -127,13 +127,4 @@ To run this project,
     ├── README.md 
     └── requirements.txt
 
-## License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
-
-## Author  
-
-* [levist7](https://github.com/levist7)
----
-Made with ❤️ in Paris
----
